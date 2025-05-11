@@ -12,6 +12,7 @@ Jalu's monorepo for all of his projects.
 - `apps/` - Contains all the applications.
 - `packages/` - Contains all the packages.
 - `scripts/` - Contains all the scripts.
+- `docs/` - Contains all the documentation.
 
 ## License
 
